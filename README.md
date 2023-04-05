@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Acesse o projeto pelo link: https://tiktokdev-164e2.web.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
